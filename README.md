@@ -1,7 +1,7 @@
 # Maratona Dev 3.0
 
 ## Contexto
-Este repositório contém a aplicação Doe que foi desenvolvida durante a Maratona Dev 3.0
+Este repositório contém o projeto "Doe" que foi desenvolvido durante a Maratona Dev 3.0
 
 ## Projeto
-Doe é um projeto que visa cadastrar possíveis doadores de sangue, o projeto tem intenção de aprimorar os conhecimentos em HTML, CSS e JavaScript.
+Doe é um projeto que visa cadastrar possíveis doadores de sangue, o projeto tem a exclusiva intenção de aprimorar os conhecimentos em programação em HTML, CSS e JavaScript.
