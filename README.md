@@ -5,4 +5,4 @@ Este repositório contém o projeto "Doe" que foi desenvolvido durante a Maraton
 
 ## Projeto
 Doe é um projeto que visa cadastrar possíveis doadores de sangue. 
-O projeto tem a exclusiva intenção de aprimorar os conhecimentos em desenvolvimento de HTML, CSS e JavaScript.
+O projeto tem o intuito de aprimorar os conhecimentos de desenvolvimento em HTML, CSS e JavaScript.
